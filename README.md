@@ -60,5 +60,5 @@ sh script.bash
 ![Пример 3](https://github.com/acidnaya/OS_HW_3/blob/main/images/3.jpg)\
 ![Пример 4](https://github.com/acidnaya/OS_HW_3/blob/main/images/4.jpg)
 
-P.S. Если что-то не заработает, то надо закомментировать unlink_all() в main-функции hotel.c...
+P.S. Если что-то не заработает, то надо закомментировать unlink_all() в main-функции hotel.c...\
 PP.S. Если сервер не прекращает работу, то нужно повторно запустить скрипт, ему не хватило посетителей...
